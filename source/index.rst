@@ -23,11 +23,3 @@ pull-request <https://github.com/qupa-project/uniview-docs/pulls>`__.
    first-execution/index
    functions/index
    behaviour/index
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

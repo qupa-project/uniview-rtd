@@ -1,0 +1,2 @@
+# Ignore the built docs, public docs are automatically build by another process
+build/*

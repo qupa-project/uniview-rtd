@@ -6,6 +6,7 @@ Variables and Values
 	:caption: Contents:
 	:glob:
 
+	declaration
 	type-systems
 
 Variables within Uniview should be thought of in a slightly different way to most languages.

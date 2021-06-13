@@ -22,4 +22,4 @@ pull-request <https://github.com/qupa-project/uniview-docs/pulls>`__.
    variables/index
    first-execution/index
    functions/index
-   behaviour/index
+   flow-control/index

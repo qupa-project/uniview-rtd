@@ -14,15 +14,15 @@ First of all we are just going to create a file called ``hello.uv`` with the fol
 		return 0;
 	}
 
-Once we have that, simply run the command:
+Once we have that, simply run the command
 
 .. code-block:: bash
 
-  uvc hello.uv
+	uvc hello.uv
 
 Then you should see the output
 
-.. code-block::
+.. code-block:: none
 
 	Hello World!
 

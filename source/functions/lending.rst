@@ -48,3 +48,11 @@ Why using lending? The two examples are the same length.
 When should I use lending?
 	If the primary goal of your function is to alter some value then return it,
 	it is generally better to use lending for any none ``normal`` type values.
+
+What happens to a name while a value is lent?
+	While a value is lent the name will appear undefined, only once the value has returned will the name be reuseable
+	The below example will not compile as for the second argument is attempting to lend a now undefind value, because ``a`` has already been temporarily consumed.
+
+	.. code-block::
+
+		consume(@a, @a);

@@ -24,6 +24,8 @@ pull-request <https://github.com/qupa-project/uniview-docs/pulls>`__.
    functions/index
    expressions/index
    flow-control/index
+   structures/index
+   classes/index
    builtins/index
    std/index
    foreign-function-interface/index

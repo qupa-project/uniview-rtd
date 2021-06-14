@@ -1,5 +1,5 @@
-Foreign Function Interfacing
-============================
+Interfacing with Foreign Function
+=================================
 
 .. warning::
 	This section details features that break all safeties of the language and can cause undefined affects.

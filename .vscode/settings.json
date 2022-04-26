@@ -1,4 +1,5 @@
 {
 	"restructuredtext.confPath": "${workspaceFolder}\\source",
-	"editor.trimAutoWhitespace": false
+	"editor.trimAutoWhitespace": false,
+	"esbonio.sphinx.confDir": "${workspaceFolder}\\source"
 }
